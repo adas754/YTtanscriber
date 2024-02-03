@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+PYPDF2
+youtube_transcript_api
+pathlib
